@@ -1,0 +1,16 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aazim parwaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "jquery": "^3.5.1",
+    "yargs": "^15.3.1"
+  }
+}

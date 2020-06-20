@@ -1,7 +1,6 @@
 {
   "name": "notes-app",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,14 @@
     "chalk": "^4.1.0",
     "jquery": "^3.5.1",
     "yargs": "^15.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aazim-parwaz/note-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aazim-parwaz/note-app/issues"
+  },
+  "homepage": "https://github.com/Aazim-parwaz/note-app#readme",
+  "description": ""
 }

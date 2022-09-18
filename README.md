@@ -45,5 +45,5 @@ Chalk module in Node.js is the third-party module that is used for styling the f
 - It helps to improve the quality of the output by providing several color options like for warning message red color and many more.
 
 #### Installing Module:
-npm install chalk
+            npm install chalk
 

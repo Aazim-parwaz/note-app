@@ -14,4 +14,12 @@
 #### To use this File System module, use the require() method:
       const fs= require('fs')
 
+#### Common use for File System module:
+
+- Read Files
+- Write Files
+- Append Files
+- Close Files
+- Delete Files
+
 

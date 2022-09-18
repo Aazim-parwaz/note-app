@@ -10,15 +10,9 @@
 ## introduction
 <a name="introduction"></a>
 
+NOTE-APP is the nodejs application developed by Aazim Parwaz. The App uses command line interface to perform I/O operations. Yargs module customizes/creates the commands in CLI where read,write,delete,update, and find commands are created to perform the operations. The Input taken from command line is store in *yargs.argv()* in the form of an object. The object is parsed to get the input queries with the data like *title* and *note*. Then information is stored in .json file using *FILE SYSTEMS MODULE(fs)*. Queries like reading reads the .json file using *fs* and logs the information in the console. To make data look pleasent to eyes *CHALK MODULE* is used. *chalk* adds color, font,etc to the output text.
 
 
-#### Common use for File System module:
-
-- Read Files
-- Write Files
-- Append Files
-- Close Files
-- Delete Files
 
 
 ## MODULES USED
@@ -40,4 +34,6 @@
 - readFileSync()
 
 
-##
+## CHALK NPM MODULE
+<a name="CHALK_MODULE"></a>
+

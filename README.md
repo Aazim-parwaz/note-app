@@ -6,7 +6,7 @@
 3. [NODEJS_FILE-SYSTEMS_MODULE](#NODEJS_FILE-SYSTEMS_MODULE)
 4. [CHALK_MODULE](#CHALK_MODULE)
 5. [YARGS_MODULE](#YARGS_MODULE)
-6. [HOW_TO_RUN](#HOW_TO_RUN)
+
 ## introduction
 <a name="introduction"></a>
 
@@ -45,5 +45,19 @@ Chalk module in Node.js is the third-party module that is used for styling the f
 - It helps to improve the quality of the output by providing several color options like for warning message red color and many more.
 
 #### Installing Module:
-            npm install chalk
+        npm install chalk
+
+
+## YARGS MODULE
+<a name="YARGS_MODULE"></a>
+
+Yargs module is used for creating your own command-line commands in node.js and helps in generating an elegant user interface. This module makes command-line arguments flexible and easy to use.
+
+## you can use it as shown below in CLI:
+
+     node index.js add --title="name" --body="aazim parwaz"
+
+
+
+  
 

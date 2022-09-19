@@ -1,7 +1,1 @@
-[{
-    "title": "name",
-    "body": "hello i am a programmer"
-}, {
-    "title": "motive",
-    "body": "future belongs to me"
-}]
+[{"title":"name","body":"hello i am a programmer"},{"title":"motive","body":"future belongs to me"},{"title":"c++","body":"it is an object oriented programming language"}]
